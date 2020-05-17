@@ -14,7 +14,7 @@ struct Temp: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
+    var url = URL(string: "https://thirsty-jang-d93819.netlify.app")!
     var name = "Temp"
     var description = "A description of Temp"
     var language: Language { .english }
